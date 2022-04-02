@@ -32,8 +32,7 @@ public class FtoCconverter
 	    //double fTemp = keyboard.nextDouble(); // declares variable in-line
 		fTemp = keyboard.nextDouble(); 
 	    
-	    // repeats what the user entered 
-	    
+	    // repeats what the user entered 	    
 	    System.out.print("You entered the current temperature as " + fTemp + " degrees in Fahrenheit.\n");
 
 	    
