@@ -46,7 +46,7 @@ public class FtoCconverter
 	    System.out.print("Your converted temperature of " + fTemp + " Fahrenheit ");
 	    System.out.printf("in Celsius is: %.3f degrees.\n", cTemp ); //rounds the decimal up to 3 points
 
-	    //closes scanner object
+	    //closes object scanner
 	    keyboard.close();
 	}
 
