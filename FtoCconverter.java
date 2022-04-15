@@ -23,7 +23,7 @@ public class FtoCconverter
 		// takes the user input
 		System.out.print("Please enter the current temperature in Fahrenheit: ");
 		
-		// creates object scanner
+		// creates scanner object
 		Scanner keyboard = new Scanner(System.in);
 		
 		/** declares fTemp as double
